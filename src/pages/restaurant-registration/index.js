@@ -5,7 +5,7 @@ import CssBaseline from '@mui/material/CssBaseline'
 import { getServerSideProps } from '../index'
 
 // import useScrollToTop from '../../src/api-manage/hooks/custom-hooks/useScrollToTop'
-import StoreRegistration from '@/components/store-resgistration'
+import StoreRegistration from '@/components/store-registration'
 import Meta from '@/components/Meta'
 import CustomContainer from '@/components/container'
 

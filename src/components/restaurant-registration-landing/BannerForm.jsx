@@ -1,5 +1,5 @@
 import { Box, Stack } from '@mui/system'
-import { BannerFormPaper } from '@/components/restaurant-resgistration-landing/LandingStyles.style'
+import { BannerFormPaper } from './LandingStyles.style'
 import {
     alpha, Autocomplete, FormControl, FormHelperText, IconButton,
     InputAdornment,

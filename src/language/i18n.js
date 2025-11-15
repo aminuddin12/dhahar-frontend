@@ -16,15 +16,15 @@ const resources = {
     en: {
         translation: english,
     },
-    bn: {
-        translation: bengali,
-    },
-    ar: {
-        translation: arabic,
-    },
-    es: {
-        translation: spanish,
-    },
+    // bn: {
+    //     translation: bengali,
+    // },
+    // ar: {
+    //     translation: arabic,
+    // },
+    // es: {
+    //     translation: spanish,
+    // },
 }
 
 i18n.use(initReactI18next) // passes i18n down to react-i18next

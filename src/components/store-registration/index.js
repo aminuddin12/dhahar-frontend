@@ -11,8 +11,8 @@ import StoreRegistrationForm from './StoreRegistrationForm'
 import BusinessPlan from './BusinessPlan'
 import PaymentSelect from './PaymentSelect'
 import SuccessStoreRegistration from './SuccessStoreRegistration'
-import { usePostStoreRegistration } from '@/hooks/react-query/store-registraion/usePostStoreRegistration'
-import { usePostBusiness } from '@/hooks/react-query/store-registraion/usePostBusiness'
+import { usePostStoreRegistration } from '@/hooks/react-query/store-registration/usePostStoreRegistration'
+import { usePostBusiness } from '@/hooks/react-query/store-registration/usePostBusiness'
 import { onErrorResponse } from '../ErrorResponse'
 
 const StoreRegistration = ({ configData }) => {

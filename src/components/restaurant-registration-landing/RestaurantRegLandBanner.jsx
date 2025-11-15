@@ -1,7 +1,7 @@
 import bannerImg from '../../../public/static/rr_landing/rrlb.webp'
 import CustomContainer from '../container'
 import { Stack } from '@mui/system'
-import BannerForm from '@/components/restaurant-resgistration-landing/BannerForm'
+import BannerForm from './BannerForm'
 import CustomNextImage from '@/components/CustomNextImage'
 import ImageNotFound from '../../../public/static/no-image-found.png'
 

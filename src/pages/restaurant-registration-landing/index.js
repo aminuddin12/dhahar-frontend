@@ -1,6 +1,6 @@
 import CssBaseline from '@mui/material/CssBaseline'
 import Meta from '@/components/Meta'
-import RestaurantRegistrationLanding from '@/components/restaurant-resgistration-landing'
+import RestaurantRegistrationLanding from '@/components/restaurant-registration-landing'
 import { CustomHeader } from '@/api/Headers'
 import { checkMaintenanceMode } from '@/utils/customFunctions'
 

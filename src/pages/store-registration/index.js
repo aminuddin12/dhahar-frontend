@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next'
 import CssBaseline from '@mui/material/CssBaseline'
 import { getServerSideProps } from '../index'
-import StoreRegistration from '@/components/store-resgistration'
+import StoreRegistration from '@/components/store-registration'
 import Meta from '@/components/Meta'
 
 const Index = ({ configData, landingPageData }) => {

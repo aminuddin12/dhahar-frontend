@@ -38,7 +38,7 @@ import StoreAdditionalInfo from './StoreAdditionalInfo'
 import { useGetLocation } from '@/utils/custom-hook/useGetLocation'
 import { formatPhoneNumber } from '@/utils/customFunctions'
 import toast from 'react-hot-toast'
-import BusinessTin from '@/components/store-resgistration/BusinessTin'
+import BusinessTin from '@/components/store-registration/BusinessTin'
 
 export const generateInitialValues = (languages, allData, configData) => {
     const initialValues = {

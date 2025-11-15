@@ -1,8 +1,8 @@
 import { Stack } from '@mui/system'
-import RestaurantRegLandBanner from '@/components/restaurant-resgistration-landing/RestaurantRegLandBanner'
-import RestaurantRegLandAbout from '@/components/restaurant-resgistration-landing/RestaurantRegLandAbout'
-import RestaurantRegLandFeature from '@/components/restaurant-resgistration-landing/RestaurantRegLandFeature'
-import RestaurantRegLandFaq from '@/components/restaurant-resgistration-landing/RestaurantRegLandFaq'
+import RestaurantRegLandBanner from './RestaurantRegLandBanner'
+import RestaurantRegLandAbout from './RestaurantRegLandAbout'
+import RestaurantRegLandFeature from './RestaurantRegLandFeature'
+import RestaurantRegLandFaq from './RestaurantRegLandFaq'
 
 
 const RestaurantRegistrationLanding = ({data,configData}) => {
